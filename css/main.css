@@ -1,0 +1,8 @@
+div {
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+    margin-left: calc( (100% - 500px) / 2 );
+    margin-right: calc( (100% - 500px) / 2 );
+    background-color: yellow;
+}
